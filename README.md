@@ -46,4 +46,3 @@ Tomadores de decisão em ambientes de manutenção enfrentam diversos desafios, 
 - **Desafio**: Equipamentos e condições operacionais podem mudar, e as estratégias de manutenção precisam se adaptar a essas mudanças.</br>
 - **Benefício do Estudo**: A análise contínua de dados permite ajustar rapidamente as estratégias de manutenção às mudanças nas condições operacionais.
 
-- 
