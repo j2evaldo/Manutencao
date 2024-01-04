@@ -4,7 +4,15 @@
   <img src="Manute.png" >
 </p>
 
- Tomadores de decisão em ambientes de manutenção enfrentam diversos desafios, especialmente em setores onde a eficiência operacional e a confiabilidade são críticas. O uso de modelos analíticos, como a regressão logística para prever falhas de equipamentos ou necessidades de manutenção, pode ser extremamente útil nesse contexto. Aqui estão alguns dos desafios e como este tipo de estudo pode ser benéfico:
+## **Sobre os Dados**
+[Base de Dados](https://github.com/j2evaldo/Manutencao/blob/main/manutencao.csv) </br>
+[NoteBook do Estudo](https://github.com/j2evaldo/Manutencao/blob/main/00_Manutencao.ipynb)
+
+---
+
+# **Contexto do Projeto**
+
+Tomadores de decisão em ambientes de manutenção enfrentam diversos desafios, especialmente em setores onde a eficiência operacional e a confiabilidade são críticas. O uso de modelos analíticos, como a regressão logística para prever falhas de equipamentos ou necessidades de manutenção, pode ser extremamente útil nesse contexto. Aqui estão alguns dos desafios e como este tipo de estudo pode ser benéfico:
 
 ## **Prevenção de Falhas e Tempo de Inatividade**:
 
